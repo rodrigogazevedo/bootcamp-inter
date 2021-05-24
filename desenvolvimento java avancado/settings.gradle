@@ -1,0 +1,4 @@
+rootProject.name = 'desenvolvimento java avançado'
+include 'digital.innovation.one.core'
+include 'digital.innovation.one.utils'
+

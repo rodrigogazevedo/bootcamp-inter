@@ -1,0 +1,64 @@
+one/digitalinnovation/interfacesFuncionais/FuncaoAltaOrdem.java
+ one.digitalinnovation.interfacesFuncionais.Calculo
+ one.digitalinnovation.interfacesFuncionais.FuncaoAltaOrdem
+one/digitalinnovation/interfacesFuncionais/Predicados.java
+ one.digitalinnovation.interfacesFuncionais.Predicados
+one/digitalinnovation/paradigmaFuncional/Aula.java
+ one.digitalinnovation.paradigmaFuncional.Aula
+one/digitalinnovation/paradigmaFuncional/Funcao.java
+ one.digitalinnovation.paradigmaFuncional.Funcao
+one/digitalinnovation/processamentoAsncParalelo/FutureExemplo.java
+ one.digitalinnovation.processamentoAsncParalelo.Atividade
+ one.digitalinnovation.processamentoAsncParalelo.Casa
+ one.digitalinnovation.processamentoAsncParalelo.Comodo
+ one.digitalinnovation.processamentoAsncParalelo.FutureExemplo
+ one.digitalinnovation.processamentoAsncParalelo.Quarto
+one/digitalinnovation/paradigmaFuncional/FuncaoComClasseAnonima.java
+ one.digitalinnovation.paradigmaFuncional.FuncaoComClasseAnonima
+ one.digitalinnovation.paradigmaFuncional.FuncaoComClasseAnonima$1
+one/digitalinnovation/paradigmaFuncional/ComposicaoDeFuncoes.java
+ one.digitalinnovation.paradigmaFuncional.ComposicaoDeFuncoes
+one/digitalinnovation/paradigmaFuncional/FatorialRecursivo.java
+ one.digitalinnovation.paradigmaFuncional.FatorialRecursivo
+one/digitalinnovation/paradigmaFuncional/FuncaoComLambda.java
+ one.digitalinnovation.paradigmaFuncional.FuncaoComLambda
+one/digitalinnovation/processamentoAsncParalelo/ThreadExemplo.java
+ one.digitalinnovation.processamentoAsncParalelo.BarraDeCarregamanto2
+ one.digitalinnovation.processamentoAsncParalelo.BarraDeCarregamanto3
+ one.digitalinnovation.processamentoAsncParalelo.BarraDeCarregamento
+ one.digitalinnovation.processamentoAsncParalelo.GeradorPDF
+ one.digitalinnovation.processamentoAsncParalelo.ThreadExemplo
+one/digitalinnovation/paradigmaFuncional/FuncoesPuras.java
+ one.digitalinnovation.paradigmaFuncional.FuncoesPuras
+one/digitalinnovation/paradigmaFuncional/FatorialMemoization.java
+ one.digitalinnovation.paradigmaFuncional.FatorialMemoization
+one/digitalinnovation/paradigmaFuncional/FatorialTailCall.java
+ one.digitalinnovation.paradigmaFuncional.FatorialTailCall
+one/digitalinnovation/interfacesFuncionais/Consumidores.java
+ one.digitalinnovation.interfacesFuncionais.Consumidores
+one/digitalinnovation/paradigmaFuncional/Imultabilidade.java
+ one.digitalinnovation.paradigmaFuncional.Imultabilidade
+one/digitalinnovation/interfacesFuncionais/Funcoes.java
+ one.digitalinnovation.interfacesFuncionais.Funcoes
+one/digitalinnovation/interfacesFuncionais/Iteracoes.java
+ one.digitalinnovation.interfacesFuncionais.Iteracoes
+one/digitalinnovation/processamentoAsncParalelo/ParallelStreamExemplo.java
+ one.digitalinnovation.processamentoAsncParalelo.ParallelStreamExemplo
+one/digitalinnovation/interfacesFuncionais/Suplidores.java
+ one.digitalinnovation.interfacesFuncionais.Pessoa
+ one.digitalinnovation.interfacesFuncionais.Suplidores
+one/digitalinnovation/novidadesJava10/InferenciaExemplo.java
+ one.digitalinnovation.novidadesJava10.InferenciaExemplo
+one/digitalinnovation/novidadesJava11/ClienteHttpExemplo.java
+ one.digitalinnovation.novidadesJava11.ClienteHttpExemplo
+ one.digitalinnovation.novidadesJava11.ClienteHttpExemplo$1
+one/digitalinnovation/novidadesJava11/InferenciaLambda.java
+ one.digitalinnovation.novidadesJava11.InferenciaLambda
+one/digitalinnovation/novidadesJava11/StringIsBlankExemplo.java
+ one.digitalinnovation.novidadesJava11.StringIsBlankExemplo
+one/digitalinnovation/novidadesJava11/StringLinesExemplo.java
+ one.digitalinnovation.novidadesJava11.StringLinesExemplo
+one/digitalinnovation/novidadesJava11/CollectionExemplo.java
+ one.digitalinnovation.novidadesJava11.CollectionExemplo
+one/digitalinnovation/novidadesJava11/StringRepeat.java
+ one.digitalinnovation.novidadesJava11.StringRepeat
