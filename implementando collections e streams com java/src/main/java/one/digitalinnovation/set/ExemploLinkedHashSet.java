@@ -1,5 +1,6 @@
 package one.digitalinnovation.set;
 
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 
@@ -13,6 +14,7 @@ public class ExemploLinkedHashSet {
         sequenciaNumerica.add(2);
         sequenciaNumerica.add(8);
         sequenciaNumerica.add(4);
+        sequenciaNumerica.add(1);
         sequenciaNumerica.add(1);
 
         System.out.println(sequenciaNumerica);

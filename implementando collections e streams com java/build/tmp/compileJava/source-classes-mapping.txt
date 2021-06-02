@@ -1,7 +1,7 @@
 one/digitalinnovation/map/ExemploHashMap.java
  one.digitalinnovation.map.ExemploHashMap
-one/digitalinnovation/list/ExemploList.java
- one.digitalinnovation.list.ExemploList
+one/digitalinnovation/stream/ExemploFinal.java
+ one.digitalinnovation.stream.ExemploFinal
 one/digitalinnovation/set/ExemploTreeSet.java
  one.digitalinnovation.set.ExemploTreeSet
 one/digitalinnovation/queue/ExemploFinal.java
@@ -10,8 +10,8 @@ one/digitalinnovation/comparators/ClienteOrdemChegadaComparator.java
  one.digitalinnovation.comparators.ClienteOrdemChegadaComparator
 one/digitalinnovation/comparators/Estudante.java
  one.digitalinnovation.comparators.Estudante
-one/digitalinnovation/set/ExemploLinkedHashSet.java
- one.digitalinnovation.set.ExemploLinkedHashSet
+one/digitalinnovation/stream/ExemploStreamAPI.java
+ one.digitalinnovation.stream.ExemploStreamAPI
 one/digitalinnovation/optionals/ExemploOptional.java
  one.digitalinnovation.optionals.ExemploOptional
 one/digitalinnovation/optionals/ExemploOptionalEstados.java
@@ -32,8 +32,8 @@ one/digitalinnovation/stream/Estudante.java
  one.digitalinnovation.stream.Estudante
 one/digitalinnovation/optionals/ExemploOptionalPrimitivos.java
  one.digitalinnovation.optionals.ExemploOptionalPrimitivos
-one/digitalinnovation/set/ExemploHashSet.java
- one.digitalinnovation.set.ExemploHashSet
+one/digitalinnovation/set/ExemploFinal.java
+ one.digitalinnovation.set.ExemploFinal
 one/digitalinnovation/comparators/EstudanteOrdemIdadeReversaComparator.java
  one.digitalinnovation.comparators.EstudanteOrdemIdadeReversaComparator
 one/digitalinnovation/list/ExemploVector.java
@@ -44,9 +44,9 @@ one/digitalinnovation/comparators/ComparatorsExampleList.java
  one.digitalinnovation.comparators.ComparatorsExampleList
 one/digitalinnovation/map/ExemploHashTable.java
  one.digitalinnovation.map.ExemploHashTable
-one/digitalinnovation/set/ExemploFinal.java
- one.digitalinnovation.set.ExemploFinal
-one/digitalinnovation/stream/ExemploStreamAPI.java
- one.digitalinnovation.stream.ExemploStreamAPI
-one/digitalinnovation/stream/ExemploFinal.java
- one.digitalinnovation.stream.ExemploFinal
+one/digitalinnovation/set/ExemploLinkedHashSet.java
+ one.digitalinnovation.set.ExemploLinkedHashSet
+one/digitalinnovation/set/ExemploHashSet.java
+ one.digitalinnovation.set.ExemploHashSet
+one/digitalinnovation/list/ExemploList.java
+ one.digitalinnovation.list.ExemploList

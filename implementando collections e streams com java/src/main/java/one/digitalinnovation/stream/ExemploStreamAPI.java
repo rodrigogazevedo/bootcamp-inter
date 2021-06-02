@@ -68,8 +68,8 @@ public class ExemploStreamAPI {
                 .peek(System.out::println)
                 .filter((estudante) ->
                         estudante.toLowerCase().contains("r"))
-                .collect(Collectors.toList()));
-        //        .collect(Collectors.joining(", ")));
+        //        .collect(Collectors.toList()));
+                .collect(Collectors.joining(", ")));
         //        .collect(Collectors.toSet()));
         //        .collect(Collectors.groupingBy(estudante -> estudante.substring(estudante.indexOf("-") + 1))));
     }
