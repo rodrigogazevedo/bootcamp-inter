@@ -1,6 +1,5 @@
-one/digitalinnovation/interfacesFuncionais/FuncaoAltaOrdem.java
- one.digitalinnovation.interfacesFuncionais.Calculo
- one.digitalinnovation.interfacesFuncionais.FuncaoAltaOrdem
+one/digitalinnovation/novidadesJava11/StringRepeat.java
+ one.digitalinnovation.novidadesJava11.StringRepeat
 one/digitalinnovation/interfacesFuncionais/Predicados.java
  one.digitalinnovation.interfacesFuncionais.Predicados
 one/digitalinnovation/paradigmaFuncional/Aula.java
@@ -60,5 +59,8 @@ one/digitalinnovation/novidadesJava11/StringLinesExemplo.java
  one.digitalinnovation.novidadesJava11.StringLinesExemplo
 one/digitalinnovation/novidadesJava11/CollectionExemplo.java
  one.digitalinnovation.novidadesJava11.CollectionExemplo
-one/digitalinnovation/novidadesJava11/StringRepeat.java
- one.digitalinnovation.novidadesJava11.StringRepeat
+one/digitalinnovation/interfacesFuncionais/FuncaoAltaOrdem.java
+ one.digitalinnovation.interfacesFuncionais.Calculo
+ one.digitalinnovation.interfacesFuncionais.FuncaoAltaOrdem
+one/digitalinnovation/novidadesJava11/Teste.java
+ one.digitalinnovation.novidadesJava11.Teste
